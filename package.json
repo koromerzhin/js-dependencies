@@ -1,0 +1,28 @@
+{
+  "name": "js-dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koromerzhin/js-dependencies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koromerzhin/js-dependencies/issues"
+  },
+  "homepage": "https://github.com/koromerzhin/js-dependencies#readme",
+  "devDependencies": {
+    "all-contributors-cli": "6.20.0",
+    "gitmoji-changelog": "2.3.0",
+    "license-checker": "25.0.1",
+    "markdownlint-cli": "0.30.0",
+    "readme-md-generator": "1.0.0",
+    "semantic-git-commit-cli": "3.7.0"
+  }
+}
