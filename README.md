@@ -17,32 +17,7 @@
 
 Software:
 
-- make
 - npm
-
-## Install
-
-```sh
-make install
-```
-
-## after git add
-
-```sh
-make git check
-```
-
-## Replace git commit
-
-```sh
-make git commit
-```
-
-## Help
-
-```sh
-make help
-```
 
 ## Author
 
