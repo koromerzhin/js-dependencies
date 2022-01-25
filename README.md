@@ -1,6 +1,6 @@
 # Welcome to @koromerzhin/js-dependencies 👋
 
-![Version](https://img.shields.io/badge/version-1.2.0-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-1.3.0-blue.svg?cacheSeconds=2592000)
 ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/koromerzhin/js-dependencies/graphs/commit-activity)
 ![Continuous Integration](https://github.com/koromerzhin/js-dependencies/workflows/Continuous%20Integration/badge.svg?branch=develop)
