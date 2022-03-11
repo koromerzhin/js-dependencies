@@ -23,7 +23,7 @@
     "gitmoji-changelog": "2.3.0",
     "jscpd": "3.4.5",
     "license-checker": "25.0.1",
-    "markdownlint-cli": "0.30.0",
+    "markdownlint-cli": "0.31.1",
     "readme-md-generator": "1.0.0",
     "semantic-git-commit-cli": "3.7.0"
   }
