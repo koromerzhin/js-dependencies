@@ -19,6 +19,14 @@ Software:
 
 - npm
 
+## Download
+
+```sh
+git clone git@github.com:koromerzhin/js-dependencies.git js-dependencies
+cd js-dependencies
+git submodule update --init
+```
+
 ## Author
 
 👤 **koromerzhin**
