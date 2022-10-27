@@ -21,7 +21,7 @@
     "all-contributors-cli": "6.24.0",
     "generate-changelog": "1.8.0",
     "gitmoji-changelog": "2.3.0",
-    "jscpd": "3.4.5",
+    "jscpd": "3.5.1",
     "license-checker": "25.0.1",
     "markdownlint-cli": "0.32.2",
     "readme-md-generator": "1.0.0",
