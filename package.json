@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/koromerzhin/js-dependencies#readme",
   "dependencies": {
-    "all-contributors-cli": "6.24.0",
+    "all-contributors-cli": "6.26.1",
     "generate-changelog": "1.8.0",
     "gitmoji-changelog": "2.3.0",
     "jscpd": "3.5.1",
